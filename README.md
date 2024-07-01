@@ -14,7 +14,7 @@ pip install ir requirements.txt
 
 
 ---
-<h1>Visit Live: https://github.com/tanvirpoly/E-commerce_python_django_react</h1>
+<h1>Visit Live: https://github.com/tanvirpoly/Registration_Form_Using_Python_Django</h1>
 
 
 
